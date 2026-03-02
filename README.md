@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi 👋 I'm Nabin Agrawal
 
-<!--
-**nabinagrawal64/nabinagrawal64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE @ IIIT Bhubaneswar  
+💻 Full Stack Developer (MERN Stack)  
+🚀 Passionate about building scalable web applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🔭 Software Developer Intern (Remote)
+- 🌱 Currently exploring backend scalability & system design
+- 💡 Love turning ideas into real-world products
+
+---
+
+## 🚀 Featured Work
+
+### 🏨 SSH Hotel – Booking Platform  
+React.js • Node.js • REST APIs  
+
+### 🎓 StudyNotion – EdTech Platform  
+MERN Stack • JWT Auth • Razorpay  
+
+### 🧘 Urban-Pilgrim – Yoga Platform  
+React • Firebase • Google Calendar API  
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:** C/C++, JavaScript  
+**Frontend:** React.js, Tailwind CSS  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB, Firebase,  
+**Tools:** Git, GitHub, VS Code  
+
+---
+
+## 📫 Connect With Me
+
+📧 nabinagrawal64@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/nabin-agrawal-819462276 
