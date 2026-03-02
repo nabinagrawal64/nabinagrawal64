@@ -14,19 +14,6 @@
 
 ---
 
-## 🚀 Featured Work
-
-### 🏨 SSH Hotel – Booking Platform  
-React.js • Node.js • REST APIs  
-
-### 🎓 StudyNotion – EdTech Platform  
-MERN Stack • JWT Auth • Razorpay  
-
-### 🧘 Urban-Pilgrim – Yoga Platform  
-React • Firebase • Google Calendar API  
-
----
-
 ## 🛠 Tech Stack
 
 **Languages:** C/C++, JavaScript  
